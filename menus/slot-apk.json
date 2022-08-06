@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-apk",
+        "command": "slot-apk:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-apk",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-apk:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
