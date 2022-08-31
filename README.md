@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Dapatkan Informasi Gacor Kode Cheat Slot Apk Uang Sungguhan](https://atom.io/packages/slot-apk)
-## :8ball: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/) :green_heart: <<< 
-## :ok_hand: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/register/) :heavy_check_mark: <<< 
-## :8ball: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :ok_hand: <<< 
+## :8ball: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/) :green_heart: <<< 
+## :ok_hand: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/register/) :heavy_check_mark: <<< 
+## :8ball: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :ok_hand: <<< 
 
 ## Informasi Situs /Server Kami : 
 
